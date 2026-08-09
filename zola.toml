@@ -3,12 +3,12 @@
 # content support and don't mind $HOST variable (found below) literally becoming "/"
 # as setting your base URL to "/" let's you to build your website for any domain as
 # opposed to hardcoding it to your's which can cause styling issues wehn you change your domain
-base_url = "https://backups1der.github.io/ametrine-starter-template/"
-title = "Blog name"   # Appears in your browser's tab title and home page
-description = "Description"   # Appears in your site's home page
+base_url = "/"
+title = "Frutiger Aero"   # Appears in your browser's tab title and home page
+description = "im happy that u wanna enter this site"   # Appears in your site's home page
 
 theme = "ametrine"
-author = "Awesome guy"  # Change it to your online handle (or your name if you're OK with it lol)
+author = "Aero"  # Change it to your online handle (or your name if you're OK with it lol)
 
 compile_sass = true
 build_search_index = true
@@ -53,10 +53,8 @@ internal_level = "warn"
 # Color attribute accepts the same values as extra.accent_color, which can be
 # found below.
 categories = [
-  { name = "Archived", description = "Posts that have been archived due to their age.", color = "purple", icon = "box-arrow-down" },
-  { name = "Featured", description = "Posts that are somewhat decently written.", color = "yellow", icon = "star" },
-  { name = "Hot", description = "Posts that did numbers compared to others.", color = "red", icon = "fire" },
-  { name = "Test", description = "Categories can be set and customized entirely from config, woo-hoo!", color = "green", icon = "feather" },
+  { name = "About YouTube", description = "Posts about the Frutiger Aero YouTube channel.", color = "blue", icon = "youtube-logo" },
+  { name = "Misc.", description = "Posts that are completely unrelated to Frutiger Aero.", color = "purple", icon = "user-minus" }
 ]
 
 # Accent color used by Ametrine.
@@ -76,7 +74,7 @@ categories = [
 # presets by creating an "accent_presets.toml" file under the "./data/"
 # directory with custom preset names and colors. Use the one located in Ametrine
 # as a reference.
-accent_color = ["hsl(270, 50%, 60%)", "hsl(27.567572, 87%, 67%)"]
+accent_color = "hsl(200, 84%, 50%)"
 
 # Additional CSS styles; expects them to be in the "./static/" directory.
 
@@ -101,9 +99,9 @@ styles = ["index.css"]
 # home_url = "@/home/index.md"
 
 # URL to website's source code.
-# source_url = "https://github.com/example/blog"
+source_url = "https://github.com/frutigeraeroenthusiast/frutigeraeroenthusiast.github.io"
 # ...and to it's bug tracker/issues page.
-# issues_url = "https://github.com/example/blog/issues/new"
+issues_url = "https://github.com/frutigeraeroenthusiast/frutigeraeroenthusiast.github.io/issues/new"
 
 # Whether to show estimated read time in posts.
 show_reading_time = true
@@ -203,7 +201,7 @@ links = [
 # Set to false to disable copyright text, or set to anything else to use it as
 # the copyright text (Markdown supported).
 # $YEAR will be replaced with current year.
-copyright = "© **Author name**, $YEAR."
+copyright = "© **Aero**, $YEAR."
 
 # Whether to show "Powered by Zola and Ametrine", and a link to the source code
 show_powered_by = true
@@ -223,11 +221,8 @@ show_timestamp = true
 # - next     (required)
 # - random   (optional)
 # "$HOST" can be used to insert config.base_url with "https://" stripped away.
-webrings = [
-  { name = "Example Webring", url = "https://example.com", previous = "https://example.com/prev", next = "https://example.com/next", random = "https://example.com/random" },
-]
 
-note = "<small>Did you know that you could change this text to your liking, and remove it completely?</small>"
+note = "<small>join my discord NOW 🔫 </small>"
 
 # [extra.fediverse]
 # Fediverse integration.
