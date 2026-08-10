@@ -4,8 +4,8 @@ title = "welcom"
 no_header = true
 +++
 {% crt() %}
-
-lllllllllllllll   lllllllllllllll  Fluxy@DESKTOP-14VLM56
+C:\Users\aero> winfetch
+lllllllllllllll   lllllllllllllll  Aero@DESKTOP-14VLM56
 lllllllllllllll   lllllllllllllll  ---------------------
 lllllllllllllll   lllllllllllllll  OS: Windows 11 Pro [64-bit]
 lllllllllllllll   lllllllllllllll  Host: MONSTER ABRA A5 V19.2
