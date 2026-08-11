@@ -25,7 +25,10 @@ lllllllllllllll   lllllllllllllll  Memory: 12.47 GiB / 15.75 GiB (79%)
 
 {% end %}
 
-# hi, my name is aero
+# hi
+im aero
+and this is frutiger aero (not the genre btw)
+
 im a guy who tinkers with tech
 
 i make videos ABOUT my tech stuff and everything else
