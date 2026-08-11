@@ -53,8 +53,9 @@ internal_level = "warn"
 # Color attribute accepts the same values as extra.accent_color, which can be
 # found below.
 categories = [
-  { name = "About YouTube", description = "Posts about the Frutiger Aero YouTube channel.", color = "blue", icon = "youtube-logo" },
-  { name = "Misc.", description = "Posts that are completely unrelated to Frutiger Aero.", color = "purple", icon = "user-minus" }
+  { name = "About YouTube", description = "Posts about the Aero YouTube channel.", color = "blue", icon = "youtube-logo" },
+  { name = "About Aero", description = "Posts about Aero himself.", color = "green", icon = "user-check" },  
+  { name = "Misc.", description = "Posts that are completely unrelated to Aero.", color = "purple", icon = "user-minus" }
 ]
 
 # Accent color used by Ametrine.
@@ -194,7 +195,7 @@ icon = true
 # Any icon name from https://phosphoricons.com can be used.
 links = [
   { url = "@/blog/_index.md", name = "Blog", icon = "newspaper" },
-  { url = "@/about/_index.md", name = "About me", icon = "user" },
+  { url = "@/about/_index.md", name = "About Me", icon = "user" },
   { url = "@/devices/index.md", name = "My Devices", icon = "device-mobile" },
 ]
 
