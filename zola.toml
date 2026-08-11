@@ -195,6 +195,7 @@ icon = true
 links = [
   { url = "@/blog/_index.md", name = "Blog", icon = "newspaper" },
   { url = "@/about/_index.md", name = "About me", icon = "user" },
+  { url = "@/devices/index.md", name = "My Devices", icon = "device-mobile" },
 ]
 
 [extra.footer]
