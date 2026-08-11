@@ -14,7 +14,7 @@ here is my collection of tech and probably other stuff
 - Samsung Galaxy J2
 - Samsung Galaxy J5
 - Samsung Galaxy Mini
-- Samsung Galaxy S6 (fixed)
+- Samsung Galaxy S6 (fix failed, broken)
 - Samsung Galaxy J7 Prime (broken)
 - Samsung Note 2 (completely dead)
 - Samsung Galaxy A30 (COMPLETELY dead, literally)
