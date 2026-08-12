@@ -8,5 +8,5 @@ generate_feeds = true
 no_header = true
 +++
 
-# Hi, my name's <span class="rainbow">[Author name goes here]</span>
-Write stuff about yourself here! {{ sticker(path="/emoji/trolley.png", name="trolley") }}
+# Hi, my name's <span class="rainbow">[Aero]</span>
+hi my name is Aero I like inspecting old phones Im a 13 year old turkish guy he/him
