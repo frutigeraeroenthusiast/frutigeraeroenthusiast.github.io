@@ -1,5 +1,5 @@
 +++
-title = "About this idiot"
+title = "About me"
 description = "How does this idiot cant stop being an stupid ass? We don't have the answer, though we do have a way to send notifications directly to him."
 generate_feeds = true
 
